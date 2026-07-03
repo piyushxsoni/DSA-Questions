@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
 |  |
 | ------- |
@@ -15,4 +16,8 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
