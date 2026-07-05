@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
@@ -28,4 +29,8 @@
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
