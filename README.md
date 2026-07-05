@@ -27,6 +27,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0876-middle-of-the-linked-list](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -44,4 +45,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
