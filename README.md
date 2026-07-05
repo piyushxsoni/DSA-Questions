@@ -20,4 +20,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
