@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Stack
@@ -33,4 +34,12 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
