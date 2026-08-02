@@ -33,10 +33,12 @@
 | ------- |
 | [0344-reverse-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,4 +51,12 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
