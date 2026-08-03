@@ -67,4 +67,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
