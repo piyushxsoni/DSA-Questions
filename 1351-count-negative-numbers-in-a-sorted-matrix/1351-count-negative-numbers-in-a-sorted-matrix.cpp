@@ -1,6 +1,9 @@
 class Solution {
 public:
     int countNegatives(vector<vector<int>>& grid) {
+       // int start = 0;
+        // int end = n-1;
+
         int n = grid.size();
         int m = grid[0].size();
         int count = 0;
@@ -12,5 +15,10 @@ public:
             }
         }
         return count;
+
+        
+
+
+
     }
 };
