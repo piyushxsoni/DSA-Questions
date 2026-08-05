@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Stack
 |  |
 | ------- |
@@ -75,4 +76,8 @@
 | [1148-article-views-i](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1683-invalid-tweets) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
