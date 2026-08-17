@@ -33,12 +33,14 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
