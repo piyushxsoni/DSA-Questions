@@ -94,6 +94,7 @@
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1683-invalid-tweets) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
 | ------- |
