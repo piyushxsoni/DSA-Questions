@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
@@ -32,6 +33,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
