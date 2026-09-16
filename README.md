@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0084-largest-rectangle-in-histogram) |
+| [0217-contains-duplicate](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Backtracking
@@ -119,6 +121,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0217-contains-duplicate) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
