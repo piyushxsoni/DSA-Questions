@@ -86,6 +86,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 ## Database
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Matrix
 |  |
@@ -150,4 +152,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
