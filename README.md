@@ -90,6 +90,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0180-consecutive-numbers) |
 | [0197-rising-temperature](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/piyushxsoni/DSA-Data-Structures-and-Algorithms/tree/master/0577-employee-bonus) |
